@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/fullStackOpen-01-unicafe/static/js/main.df26a12b.js",
-    "index.html": "/fullStackOpen-01-unicafe/index.html",
-    "main.df26a12b.js.map": "/fullStackOpen-01-unicafe/static/js/main.df26a12b.js.map"
+    "main.js": "/fullStackOpen-01-anecdotes/static/js/main.df26a12b.js",
+    "index.html": "/fullStackOpen-01-anecdotes/index.html",
+    "main.df26a12b.js.map": "/fullStackOpen-01-anecdotes/static/js/main.df26a12b.js.map"
   },
   "entrypoints": [
     "static/js/main.df26a12b.js"

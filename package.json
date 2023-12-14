@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://reklast.github.io/fullStackOpen-01-unicafe",
+  "homepage": "https://reklast.github.io/fullStackOpen-01-anecdotes",
   "eslintConfig": {
     "extends": [
       "react-app",
